@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TimeLineApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e53829c33edaf2ff88274a07dc09aea288dd6644")]
 [assembly: System.Reflection.AssemblyProductAttribute("TimeLineApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TimeLineApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
